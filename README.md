@@ -1,10 +1,8 @@
-# Test-repo
-
 # File Desciption 
 ***
 | Files        | Description |
 | ------------ | ----------- |
-| .vscode      | This folder typically contains configuration files specific to the Visual Studio Code (VS Code) editor. It may include settings for debugging, task automation, and other editor-related configurations. |
+| .vscode | This folder typically contains configuration files specific to the Visual Studio Code (VS Code) editor. It may include settings for debugging, task automation, and other editor-related configurations. |
 | docs         | This folder is commonly used to store project documentation files. It can include design documents, user guides, API references, or any other relevant documentation related to the project. |
 | notebooks    |: This folder often contains Jupyter notebooks or other interactive notebooks used for data analysis, experimentation, or documentation purposes. Notebooks provide an interactive environment where code, visualizations, and text can be combined. |
 | src          |: This folder typically holds the source code files of the project. It includes the main code files responsible for implementing the project's functionality. The source code files can be organized into subdirectories based on the project's structure or architecture. |
